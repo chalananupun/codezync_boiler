@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">codezync_boilerplate</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBpREZeFse_UlD2GrIZlGvVgRHsH_6hO0w</string>
+    <string name="map_loading_message">Please wait, Map is loading !</string>
+    <string name="good_morning">Good Morning !</string>
+    <string name="good_afternoon">Good Afternoon !</string>
+
+    <string name="good_evening">Good Evening !</string>
+    <string name="good_night">Good Night !</string>
+    <string name="km">Km</string>
+    <string name="min">Mins</string>
+    <string name="hour">Hour</string>
+    <string name="hours">Hours</string>
+
+    <string name="noInternetSnakeBarMessage">No Connection !</string>
+    <string name="backOnlineSnakeBarMessage">Back Online</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="share_using">Share</string>
+    <string name="default_notification_channel_id" translatable="false">1254</string>
+    <string name="you_dont_have_permission">You dont have permission</string>
+    <string name="currency">LKR</string>
+
+
+
+    <string name="alertTitle">Permission Required !</string>
+    <string name="alertMessage">The following permission(s) are required for the functionality of the app.\n\nRequired :\n</string>
+    <string name="alertAllowBtn">Allow</string>
+    <string name="alertDenyBtn">Deny</string>
+    <string name="alertDenyMessage">Cannot continue without permissions\ntry again next time !</string>
+</resources>
